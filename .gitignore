@@ -26,3 +26,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Large external datasets (excluded from GitHub)
+data/external/*.csv
+data/external/*.parquet
